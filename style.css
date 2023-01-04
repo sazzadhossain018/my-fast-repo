@@ -1,0 +1,13 @@
+table, th, td{
+    border:1px solid black;
+    width:400px;
+    height:30px;
+    border-collapse: collapse;
+    text-align:center;
+    text-decoration-color:white;
+    background-color: lightgray;
+}
+
+.sojib{
+    color: cornflowerblue;
+}
